@@ -4,6 +4,8 @@
 👉 [Download Latest Version](https://github.com/YourUsername/FragPunk-Cheat/releases)  
 👉 Got questions? Hit up [Issues](https://github.com/YourUsername/FragPunk-Cheat/issues)!
 
+![1742337134589](https://github.com/user-attachments/assets/b2125a18-b765-4b27-a12f-2ddcc52a2a91)
+
 🔥 **FragPunk Cheat** - Your ticket to dominating FragPunk! Not just a cheat, but a full-on beast: Aimbot, ESP, No Spread, and insane customization for any playstyle. Works on Windows 10/11, Intel/AMD - 100% undetected as of March 27, 2025. Download, use, win! 🔥
 
 ## Anti-Cheat Status
@@ -36,7 +38,8 @@
 - **Distance** - Always know how far they are
 
 ### ⚙️ MISC - Total Control
-- **Save Configs** - Set it once, keep it forever
+- **Save Configs** - Set i![1742337134589](https://github.com/user-attachments/assets/8d73dc85-7900-494c-824f-814d6f4fc8b7)
+t once, keep it forever
 - **Load Configs** - Jump in fast
 - **Reset Configs** - Start fresh
 - **No Spread** - Bullets hit like lasers
