@@ -38,8 +38,7 @@
 - **Distance** - Always know how far they are
 
 ### ⚙️ MISC - Total Control
-- **Save Configs** - Set i![1742337134589](https://github.com/user-attachments/assets/8d73dc85-7900-494c-824f-814d6f4fc8b7)
-t once, keep it forever
+- **Save Configs** - Set it once, keep it forever
 - **Load Configs** - Jump in fast
 - **Reset Configs** - Start fresh
 - **No Spread** - Bullets hit like lasers
